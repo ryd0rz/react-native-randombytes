@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mvayngrib/react-native-randombytes.git"
+    "url": "https://github.com/ryd0rz/react-native-randombytes.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
